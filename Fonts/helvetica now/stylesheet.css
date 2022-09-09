@@ -190,3 +190,8 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Radwave Demo';
+    src: url('RadwaveFont-Demo.otf');
+}
+

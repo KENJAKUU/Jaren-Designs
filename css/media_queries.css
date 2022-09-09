@@ -54,6 +54,12 @@
     margin-right: 0;
   }
 
+  /* footer */
+
+  .footer_content_container{
+    font-size: .9rem;
+  }
+
 
 
 
@@ -140,13 +146,18 @@
 
   .footer_content_container{
     flex-wrap: wrap;
+
+
   }
   .column_1, .column_2, .column_3 {
     width: 50% !important;
+    margin-bottom: 50px !important;
+
   }
-  .column_3{
-    
+  .footer_content_container{
+    font-size: 0.8rem;
   }
+ 
 
   
 
@@ -173,6 +184,9 @@
     padding: 10px 70px !important;
 
     
+  }
+  .footer_content_container{
+    font-size: 0.6rem;
   }
   
 

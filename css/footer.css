@@ -3,7 +3,7 @@ footer{
     border-top: 1px solid var(--white);
     border-radius: 50px 50px 0 0;
 
-    padding: 60px 0 70px 0;
+    padding: 60px 0 0px 0;
 
 }
 .footer_content_container{
@@ -16,8 +16,4 @@ footer{
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-.column_3{
-
-    
 }
